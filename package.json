@@ -1,0 +1,10 @@
+{
+    "name": "paradise-bot",
+    "version": "1.0.0",
+    "description": "Paradise Bot",
+    "main": "bot.js",
+    "author": "Derek McDougall",
+    "dependencies": {
+        "discord.js": "^12.4.1"
+    }
+}

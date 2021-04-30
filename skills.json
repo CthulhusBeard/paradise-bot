@@ -1,0 +1,145 @@
+{
+    "Strength" : {
+        "skills": {
+            "Miner69er": {
+                "role": "828082333487333396",
+                "name": "Miner 69er",
+                "desc": "Maximize your mining efforts by increasing tool damage to bring down rocks and trees faster.",
+                "anyone": 1
+            },
+            "MasterChef": {
+                "role": "828082622507778098",
+                "name": "Master Chef",
+                "desc": "Create more filling meals with advanced benefits and learn to cook faster.",
+                "recommended": 2
+            },
+            "MotherLode": {
+                "role": "828278218581999616",
+                "name": "Mother Lode",
+                "desc": "Harvest more resources and bring home the mother lode.",
+                "anyone": 1
+            },
+            "SkullCrusher": {
+                "role": "828278298080968734",
+                "name": "Skull Crusher",
+                "desc": "Specialize in destroying enemies with heavy weapons like sledgehammers.",
+                "recommended": 0
+            }
+        }
+    },
+    "Fortitude" : {
+        "skills": {
+            "MachineGunner": {
+                "role": "828083015108132865",
+                "name": "Machine Gunner",
+                "desc": "Become a commando using automatic weapons to slay your foes.",
+                "recommended": 1
+            },
+            "Huntsman": {
+                "role": "828083092534984744",
+                "name": "The Huntsman",
+                "desc": "Specialize in hunting your prey and harvesting more meat, bone and leather.",
+                "recommended": 2
+            },
+            "LivingOffTheLand": {
+                "role": "828083142333956146",
+                "name": "Living Off The Land",
+                "desc": "Specialize in harvesting more crops using your hands or a tool.",
+                "recommended": 2
+            }
+        }
+    },
+    "Perception" : {
+        "skills": {
+            "AnimalTracker": {
+                "role": "828086202715996192",
+                "name": "Animal Tracker",
+                "desc": "Learn to detect and track animals within 100m and never go hungry.",
+                "recommended": 2
+            },
+            "DeadEye": {
+                "role": "828085821998497812",
+                "name": "Dead Eye",
+                "desc": "Specialize in taking keen aim with rifles and wasting your target with an expertly-placed bullet. One shot, one kill.",
+                "recommended": 1
+            },
+            "DemolitionsExpert": {
+                "role": "828085874444468245",
+                "name": "Demolitions Expert",
+                "desc": "Specialize in explosive weapons to stun, cripple and dismember your foes.",
+                "recommended": 1
+            },
+            "JavelinMaster": {
+                "role": "828086011627176018",
+                "name": "Javelin Master",
+                "desc": "Learn to inflict more damage and throw spears further and with more accuracy.",
+                "recommended": 1
+            },
+            "LuckyLooter": {
+                "role": "828086912823722025",
+                "name": "Lucky Looter",
+                "desc": "Specialize in tracking down the motherlode, and maybe getting a little extra for your trouble. You find better loot with every perk level.",
+                "anyone": 1
+            },
+            "SalvageOperations": {
+                "role": "828086853390434374",
+                "name": "Salvage Operations",
+                "desc": "Waste not, want not! Salvage items for more resources with a wrench, ratchet, or impact driver.",
+                "anyone": 1
+            },
+            "TreasureHunter": {
+                "role": "828083915822596106",
+                "name": "Treasure Hunter",
+                "desc": "Become one of the greatest treasure hunters of all time learning tricks that would even make Blackbeard envious.",
+                "recommended": 1
+            }
+        }
+    },
+    "Intelligence" : {
+        "skills": {
+            "AdvancedEngineering": {
+                "role": "828082680791826453",
+                "name": "Advanced Engineering",
+                "desc": "Engineer advanced items such as workbenches, electrical items and traps and craft 20% faster on workbenches.",
+                "recommended": 1
+            },
+            "BetterBarter": {
+                "role": "828083838784765992",
+                "name": "Better Barter",
+                "desc": "Specialize in convincing area traders to give you a better deal and open up their secret stashes of the really good stuff.",
+                "recommended": 2
+            },
+            "CharismaticNature": {
+                "role": "828086551779082271",
+                "name": "Charismatic Nature",
+                "desc": "You are an inspiration to your allies, increasing their combat prowess.",
+                "recommended": 2
+            },
+            "DaringAdventurer": {
+                "role": "828087116612239430",
+                "name": "Daring Adventurer",
+                "desc": "Be a daring adventurer! Get better rewards for doing quests.",
+                "recommended": 1
+            },
+            "GreaseMonkey": {
+                "role": "828085950075764737",
+                "name": "Grease Monkey",
+                "desc": "Learn to build vehicles from junk in the wasteland! Vehicles can be assembled from parts without this perk.",
+                "recommended": 1
+            },
+            "Physician": {
+                "role": "828082774959194124",
+                "name": "Physician",
+                "desc": "Use medicine and health items more effectively.",
+                "recommended": 2
+            },
+            "RoboticsInventor": {
+                "role": "828086462024515615",
+                "name": "Robotics Inventor",
+                "desc": "You are fascinated with robotics. Learn to use and craft deployed weapons.",
+                "recommended": 1
+            }
+
+        }
+    }
+}
